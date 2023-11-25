@@ -47,11 +47,11 @@ body{
 }
 
 .api-section{
+  margin: center;
   background-color: beige;
   margin-left: 12%;
   width: 450px;
   height: 200px;
-  margin: center;
 }
 
 .Info{

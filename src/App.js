@@ -134,6 +134,8 @@ export default function Game() {
       <div className="game-info">
         <ol>{moves}</ol>
       </div>
+    <br/>
+    <br/>
       <div className="api-section">
         <API />
       </div>
